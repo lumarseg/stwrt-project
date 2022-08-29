@@ -1,4 +1,4 @@
-# STWRT-CAD
+# STWRT-PROJECT
 
 Stewart Platform Project - | v0.0.1-NIGHTLY
 
