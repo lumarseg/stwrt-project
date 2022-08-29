@@ -10,7 +10,7 @@ LinkedIn: <https://www.linkedin.com/in/lumarseg>
 
 ## Scope
 
-This project is releated to build a Stewart Platform.
+This project is releated to build a Stewart Platform. The project webpages is available at: <https://lumarseg.github.io/stwrt-project/>.
 
 ## Related Repositories
 
