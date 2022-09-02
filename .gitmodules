@@ -1,0 +1,15 @@
+[submodule "stwrt-cad"]
+	path = stwrt-cad
+	url = git@github.com:lumarseg/stwrt-cad.git
+[submodule "stwrt-docs"]
+	path = stwrt-docs
+	url = git@github.com:lumarseg/stwrt-docs.git
+[submodule "stwrt-dt"]
+	path = stwrt-dt
+	url = git@github.com:lumarseg/stwrt-dt.git
+[submodule "stwrt-mbse"]
+	path = stwrt-mbse
+	url = git@github.com:lumarseg/stwrt-mbse.git
+[submodule "stwrt-sketch"]
+	path = stwrt-sketch
+	url = git@github.com:lumarseg/stwrt-sketch.git
