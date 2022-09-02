@@ -10,7 +10,7 @@ LinkedIn: <https://www.linkedin.com/in/lumarseg>
 
 ## Scope
 
-This project is releated to Design and build a 6DOF Motion Platform (Stewart Platform) and its Digital Twin, using Arcadia's MBSE methodology and the Capella tool. Additionally, good practices described in "NASA System Engineering Handbook", "INCOSE Systems Engineering Handbook A Guide for System Life Cycle Processes and Activities" and Model-Based Requirements Engineering" will be taken as a reference.
+This project is releated to design and build a 6DOF Motion Platform (Stewart Platform) and its Digital Twin, using Arcadia's MBSE methodology and the Capella tool. Additionally, good practices described in "NASA System Engineering Handbook", "INCOSE Systems Engineering Handbook A Guide for System Life Cycle Processes and Activities" and Model-Based Requirements Engineering" will be taken as a reference.
 
 The project webpages is available at: <https://lumarseg.github.io/stwrt-project/>.
 
